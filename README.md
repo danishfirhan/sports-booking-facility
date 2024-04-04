@@ -1,6 +1,6 @@
-![image](https://github.com/danishfirhan/sports-booking-facility/assets/115968038/8bcb0cfc-3bd5-44f9-90eb-bc418ae4e381
+![image](https://github.com/danishfirhan/sports-booking-facility/assets/115968038/8bcb0cfc-3bd5-44f9-90eb-bc418ae4e381)
 
-The Online Sports Complex Booking System is a web-based application that provides an online booking platform for Sports Complex Facilities. This project allows business management to offer their clients an automated and online platform to explore available facilities for rent and make bookings. The system is built with a simple and pleasant user interface, featuring user-friendly functionalities and features.
+This Online Sports Complex Booking System is a web-based application that provides an online booking platform for Sports Complex Facilities. This project allows business management to offer their clients an automated and online platform to explore available facilities for rent and make bookings. The system is built with a simple and pleasant user interface, featuring user-friendly functionalities and features.
 
 ### Features
 ![image](https://github.com/danishfirhan/sports-booking-facility/assets/115968038/154d33b8-be73-4d63-95ae-df38346109a1)
